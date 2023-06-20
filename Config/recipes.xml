@@ -1,0 +1,57 @@
+<Vux>
+	<append xpath="/recipes">
+		<recipe name="DF44MagCoilround" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable">
+			<ingredient name="resourceBulletTip" count="50"/>
+			<ingredient name="resourceBulletCasingSteel" count="50"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+
+		<recipe name="DFammo44MagHPCoilround" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable">
+			<ingredient name="DFresourceHollowPointTip" count="50"/>
+			<ingredient name="resourceBulletCasingSteel" count="50"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+
+		<recipe name="DFammo44MagAPCoilround" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable">
+			<ingredient name="DFresourceAPTip" count="50"/>
+			<ingredient name="resourceBulletCasingSteel" count="50"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+
+		<recipe name="DF762mmCoilround" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable">
+			<ingredient name="resourceBulletTip" count="50"/>
+			<ingredient name="resourceBulletCasingSteel" count="50"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe> 
+
+		<recipe name="DF762mmBulletHPCoilround" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable">
+			<ingredient name="DFresourceHollowPointTip" count="50"/>
+			<ingredient name="resourceBulletCasingSteel" count="50"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe> 
+
+		<recipe name="DF762mmBulletAPCoilround" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable">
+			<ingredient name="DFresourceAPTip" count="50"/>
+			<ingredient name="resourceBulletCasingSteel" count="50"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+
+		<recipe name="DFammoShotgunCoilshell" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable,workbenchCrafting">
+			<ingredient name="resourceBuckshot" count="50"/>
+			<ingredient name="resourceScrapIron" count="200"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+
+		<recipe name="DFammoShotgunCoilslug" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable,workbenchCrafting">
+			<ingredient name="resourceBulletTip" count="150"/>
+			<ingredient name="resourceScrapIron" count="200"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+
+		<recipe name="DFammoShotgunCoilBreachingSlug" count="50" craft_area="workstationMetal" craft_tool="DFtoolCalipers" tags="learnable,workbenchCrafting">
+			<ingredient name="resourceForgedSteel" count="200"/>
+			<ingredient name="resourceScrapIron" count="200"/>
+			<ingredient name="DFresourceCoilbatteryBundle" count="1"/>
+		</recipe>
+	</append>
+</Vux>
