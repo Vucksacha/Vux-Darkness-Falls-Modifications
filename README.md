@@ -1,4 +1,4 @@
-# Vux-Zilox-Vehicle-Pack-Darkness-Falls-Compatibility-Patch
+# Vux-Darkness-Falls-Modifications
  <h3>Mod information</h3>
 QoL modifications for Darkness Falls 4.1.2.<br/>
 <details>
